@@ -20,6 +20,7 @@
   "plugins": ["react", "@typescript-eslint", "prettier"],
   "rules": {
     "no-console": 0, //2 for on
+    "prefer-default-export": true,
     "prettier/prettier": [
       "error",
       {
